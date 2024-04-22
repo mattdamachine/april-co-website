@@ -1,3 +1,3 @@
 # April Company Band Website
 
-[link to site](https://mattdamachine.github.io/april-co-website/)
+[Check out the site here!](https://mattdamachine.github.io/april-co-website/)
